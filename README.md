@@ -1,5 +1,3 @@
-# hospital-admissions-sql-analytics
-
 # 🏥 Hospital Admissions Analytics (MySQL)
 
 A full SQL portfolio project that transforms raw hospital admissions data into a clean staging dataset and reusable KPI reporting views.  
