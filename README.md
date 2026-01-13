@@ -94,3 +94,17 @@ Reusable views created for analysis:
 SELECT * FROM vw_hospital_kpis LIMIT 10;
 SELECT * FROM vw_insurance_kpis LIMIT 10;
 SELECT * FROM vw_monthly_trends;
+
+## 📸 Project Outputs (Screenshots)
+
+### Hospital KPIs
+![Hospital KPIs](screenshots/03_hospital_kpis.png)
+
+### Insurance KPIs
+![Insurance KPIs](screenshots/04_insurance_kpis.png)
+
+### Top Conditions by Hospital
+![Top Conditions](screenshots/05_top_conditions.png)
+
+### Monthly Trends
+![Monthly Trends](screenshots/06_monthly_trends.png)
