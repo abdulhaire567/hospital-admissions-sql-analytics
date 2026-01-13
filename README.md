@@ -1,7 +1,6 @@
 # 🏥 Hospital Admissions Analytics (MySQL)
 
-A full SQL portfolio project that transforms raw hospital admissions data into a clean staging dataset and reusable KPI reporting views.  
-This project focuses on **healthcare operations + billing analytics**, including **trend reporting**, **outlier detection**, and **hospital performance benchmarking**.
+A full SQL portfolio project that transforms raw hospital admissions data into a clean staging dataset and reusable KPI reporting views.  This project focuses on **healthcare operations + billing analytics**, including **trend reporting**, **outlier detection**, and **hospital performance benchmarking**.
 
 ---
 
