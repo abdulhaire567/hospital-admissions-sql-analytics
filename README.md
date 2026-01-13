@@ -95,6 +95,20 @@ SELECT * FROM vw_hospital_kpis LIMIT 10;
 SELECT * FROM vw_insurance_kpis LIMIT 10;
 SELECT * FROM vw_monthly_trends;
 ```
+## 🧾 Executive Summary
+
+This project delivers a hospital admissions analytics reporting layer built in **MySQL**, designed to support both **operational monitoring** and **financial performance tracking**.
+
+Using ~55,500 admission records, the dataset was cleaned into a standardized staging table and transformed into reusable KPI views that answer executive-level questions such as:
+
+- Which hospitals generate the highest total billing and volume of admissions?
+- Which insurance providers account for the most total billed amounts?
+- What medical conditions are most common across hospitals?
+- Which admissions fall into the highest-cost and longest-stay outlier groups?
+- How do admissions, billing, and length-of-stay metrics trend month-over-month?
+
+The final deliverable includes a clean staging layer (`stg_healthcare_clean`) and multiple reporting views (`vw_hospital_kpis`, `vw_insurance_kpis`, `vw_monthly_trends`, etc.) that can be used directly for dashboards and business reporting.
+
 
 ## 📸 Project Outputs (Screenshots)
 
