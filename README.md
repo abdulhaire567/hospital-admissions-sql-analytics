@@ -102,6 +102,7 @@ This project delivers a hospital admissions analytics reporting layer built in *
 Using ~55,500 admission records, the dataset was cleaned into a standardized staging table and transformed into reusable KPI views that answer executive-level questions such as:
 
 - Which hospitals generate the highest total billing and volume of admissions?
+![Dirty_Data](https://github.com/abdulhaire567/Q1-Executive-Sales-Summary/blob/092422b4aa16b0a1191d0a876c24b105c35b3b0e/dirtydatasett.png)
 - Which insurance providers account for the most total billed amounts?
 - What medical conditions are most common across hospitals?
 - Which admissions fall into the highest-cost and longest-stay outlier groups?
