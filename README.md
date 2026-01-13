@@ -94,16 +94,18 @@ Reusable views created for analysis:
 SELECT * FROM vw_hospital_kpis LIMIT 10;
 SELECT * FROM vw_insurance_kpis LIMIT 10;
 SELECT * FROM vw_monthly_trends;
+```
 
 ## 📸 Project Outputs (Screenshots)
 
-### Hospital KPIs
-![Hospital KPIs](screenshots/03_hospital_kpis.png)
+**Sample Dirty Dataset**
+![Dirty_Data](https://github.com/abdulhaire567/Q1-Executive-Sales-Summary/blob/092422b4aa16b0a1191d0a876c24b105c35b3b0e/dirtydatasett.png)
 
-### Insurance KPIs
-![Insurance KPIs](screenshots/04_insurance_kpis.png)
+**Sample Cleaned Data into table**
+![Cleaned Data into table](https://github.com/abdulhaire567/Q1-Executive-Sales-Summary/blob/9e69a2e1db6ab0750baf74f57705ce399a321d39/tablee.png)
 
-### Top Conditions by Hospital
+**PivotTable for Product Analysis, Slicers showing interactive filtering and pivot chart**
+![Pivot Table](https://github.com/abdulhaire567/Q1-Executive-Sales-Summary/blob/317f96534c87fcba42d225bb8f07daa7fac5644b/pivot_chart.png)
 ![Top Conditions](screenshots/05_top_conditions.png)
 
 ### Monthly Trends
