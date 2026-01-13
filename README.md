@@ -107,7 +107,7 @@ Using ~55,500 admission records, the dataset was cleaned into a standardized sta
 - Which admissions fall into the highest-cost and longest-stay outlier groups?
 - How do admissions, billing, and length-of-stay metrics trend month-over-month?
 
-The final deliverable includes a clean staging layer (`stg_healthcare_clean`) and multiple reporting views (`vw_hospital_kpis`, `vw_insurance_kpis`, `vw_monthly_trends`, etc.) that can be used directly for dashboards and business reporting.
+The final deliverable includes a clean staging layer (`stg_healthcare_cleanfinal`) and multiple reporting views (`vw_hospital_kpis`, `vw_insurance_kpis`, `vw_monthly_trends`, etc.) that can be used directly for dashboards and business reporting.
 
 
 ## 📸 Project Outputs (Screenshots)
